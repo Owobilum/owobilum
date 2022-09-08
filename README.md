@@ -1,4 +1,10 @@
-### Hi there 👋
+## Hi, I'm Lawrence 👋 I'm a Frontend Engineer and Web3 Ethusiast
+
+###  🔭I'm currently working on FinTech solutions
+### 🌱 I’m currently learning Solidity and Ethers JS
+### 👯 I’m looking to collaborate on building DApps
+### 💬 Ask me about Frontend Development and Blockchain Tech
+### 📫 How to reach me: lawrenceikpebe@gmail.com
 
 <!--
 **Owobilum/owobilum** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
